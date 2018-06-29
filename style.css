@@ -1,0 +1,109 @@
+@charset "utf-8";
+#container {
+	width: 1350px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	border-width: 0px;
+	border-style: solid;
+}
+#nav {
+	margin: 0px;
+	float: left;
+	width: 350px;
+	border-width: 0px;
+	border-style: solid;
+	position: fixed;
+}
+#nav #divs a {
+	display: block;
+	margin-top: 46px;
+	margin-left: 38px;
+	color: #000000;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-decoration: none;
+	text-align: left;
+	font-size: 30px;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}
+
+#logo {
+	float: left;
+	height: 200px;
+	width: 200px;
+	border-width: 0px;
+	border-style: solid;
+	margin-left: 38px;
+	margin-right: 204px;
+}
+
+#social {
+	float: left;
+	height: 100px;
+	width: 350px;
+	border-width: 0px;
+	border-style: solid;
+	margin-top: -68px;
+	margin-left: -16px;
+}
+#home {
+	margin: 0px;
+	float: right;
+	width: 1000px;
+	border-width: 0px;
+	border-style: solid;
+}
+#marshall {
+	margin: 0px;
+	float: right;
+	height: 170px;
+	width: 1000px;
+	border-width: 0px;
+	border-style: solid;
+}
+#line1 {
+	float: right;
+	width: 1000px;
+	border-width: 0px;
+	border-style: solid;
+	margin-top: 33px;
+}
+#pic1 {
+	float: right;
+	height: 500px;
+	width: 400px;
+	border-width: 0px;
+	border-style: solid;
+	margin-right: 111px;
+}
+#pic2 {
+	margin: 0px;
+	float: right;
+	height: 500px;
+	width: 400px;
+	border-width: 0px;
+	border-style: solid;
+}
+#divs {
+	float: left;
+	height: 486px;
+	width: 350px;
+	border-width: 0px;
+	border-style: solid;
+	margin-top: -33px;
+}
+#social .fab.fa-instagram {
+	color: #000000;
+	font-size: xx-large;
+}
+#social #face .fab.fa-facebook-square {
+	color: #000000;
+	font-size: xx-large;
+	margin-left: 109px;
+	margin-top: 3px;
+	margin-bottom: 31px;
+	margin-right: 11px;
+	
+}
