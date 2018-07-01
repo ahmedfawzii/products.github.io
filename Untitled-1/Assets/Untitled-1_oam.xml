@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-307522075" name="Untitled-1" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge (V1.DW.Edge)]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="icon.png" width="400" height="500" />
+
+  <require type="other" src="Untitled-1.html" />
+
+  <require type="javascript" src="Untitled-1_edge.js" />
+  <require type="javascript" src="edge_includes/edge.6.0.0.min.js" />
+
+  <require type="image" src="icon.png" />
+  <require type="image" src="images/1.jpg" />
+  <require type="image" src="images/2.jpg" />
+  <require type="image" src="images/3.jpg" />
+  <require type="image" src="images/4.jpg" />
+  <require type="image" src="images/colors.jpg" />
+  <require type="image" src="images/Poster.png" />
+
+  <require type="folder" src="edge_includes" />
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-307522075"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="400" hidden="true"/>
+    <property name="default-height" defaultValue="500" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="Untitled-1.html" hidden="true"/>
+  </properties>
+
+</widget>

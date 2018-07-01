@@ -107,3 +107,23 @@
 	margin-right: 11px;
 	
 }
+
+#color1 {
+	float: right;
+	height: 500px;
+	width: 400px;
+	border-width: 0px;
+	border-style: solid;
+	margin-right: 111px;
+}
+
+#color2 {
+	margin: 0px;
+	float: right;
+	height: 500px;
+	width: 400px;
+	border-width: 0px;
+	border-style: solid;
+} 
+
+
